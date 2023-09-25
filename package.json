@@ -1,0 +1,19 @@
+{
+  "name": "guidu_web_remastered",
+  "version": "1.0.0",
+  "description": "Guidu Website made from scratch and improved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenerH/guidu_website.git"
+  },
+  "author": "abenerH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abenerH/guidu_website/issues"
+  },
+  "homepage": "https://github.com/abenerH/guidu_website#readme"
+}
